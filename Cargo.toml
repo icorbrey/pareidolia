@@ -1,5 +1,8 @@
 [package]
 name = "pareidolia"
+description = "A facial recognition login service for Linux."
+repository = "https://github.com/icorbrey/pareidolia"
+license = "MIT OR Apache-2.0"
 version = "0.0.0"
 edition = "2021"
 
