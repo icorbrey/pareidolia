@@ -7,11 +7,11 @@ version = "0.0.0"
 edition = "2021"
 
 [lib]
-name = "pareidolia"
+name = "pareidolia_core"
 path = "src/lib.rs"
 
 [[bin]]
-name = "pareidolia-bin"
+name = "pareidolia"
 path = "src/main.rs"
 
 [dependencies]
